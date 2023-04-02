@@ -42,9 +42,6 @@ echo "Bạn đã đăng nhập không thành công"; }
 </head>
 <body>
 <h2>Đăng nhập</h2>
-
-77
-
 <form method="post" action="<?php echo
 htmlspecialchars($_SERVER["PHP_SELF"]); ?>">
 <label>Tên đăng nhập:</label>
